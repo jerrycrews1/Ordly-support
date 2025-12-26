@@ -3,7 +3,7 @@
 Ordly is a local-only habit tracker for iPhone.
 
 ## Contact
-Email: support@nerdquad.com
+Email: jerry@nerdquad.com
 
 ## Common Questions
 
