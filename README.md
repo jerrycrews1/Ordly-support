@@ -1,6 +1,6 @@
-# Ordly Support
+# Ordly Habit Tracker Support
 
-Ordly is a local-only habit tracker for iPhone.
+Ordly Habit Tracker is a local-only habit tracker for iPhone.
 
 ## Contact
 Email: jerry@nerdquad.com
