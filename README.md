@@ -8,7 +8,8 @@ Email: jerry@nerdquad.com
 ## Common Questions
 
 ### Where is my data stored?
-All data is stored locally on your device (v1.0). No account required.
+Your data is stored locally on your device and synced across your devices using iCloud (CloudKit).
+No account is required beyond your Apple ID. No third-party servers are used.
 
 ### How do I export my data?
 Open Ordly → Settings → Export → choose CSV or JSON.
